@@ -1,2 +1,2 @@
 # JAVA
-just for saving  practice of code.
+just for the saving practice of code.
