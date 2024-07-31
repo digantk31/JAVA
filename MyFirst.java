@@ -7,6 +7,4 @@ class MyFirst{
     }
 }
 
-/*Output: 
-Hello World
-*/
+// Hello World
