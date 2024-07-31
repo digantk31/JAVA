@@ -35,3 +35,17 @@ public class ReadKeyboard {
 
     }
 }
+
+
+/*
+Enter int: 15
+15
+Enter float: 15
+15.0
+Enter string: Digant Kathiriya
+Digant
+Enter line: Digant Kathiriya
+Digant Kathiriya
+Enter Binary: 1111
+15
+*/
